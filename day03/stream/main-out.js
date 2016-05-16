@@ -1,2 +1,2 @@
 var fs = require("fs");
-var data = "asdsads";
+var data = "";
